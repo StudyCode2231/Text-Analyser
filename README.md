@@ -1,5 +1,6 @@
 # Text-Analyser
 Its Text Analyser   to count the number of words , sentence,uppercase,lowercase,spaces,digit,vowel,consonet
 using simple HTML,CSS,Json,Js
-![Screenshot (1)](https://user-images.githubusercontent.com/76102425/150664029-26fc7f1d-196f-4e58-a4a7-2c0edde16abf.png)
-![Screenshot (2)](https://user-images.githubusercontent.com/76102425/150664030-c63f2b5d-fdfb-4f12-acca-c84c56eaa866.png)
+
+![Screenshot (1)](https://user-images.githubusercontent.com/76102425/150664060-c4967f8a-2e39-4609-95e1-6cb6b21fb1e6.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/76102425/150664064-e4a8afb5-e56b-4e61-8542-8f15e5fa15a4.png)
