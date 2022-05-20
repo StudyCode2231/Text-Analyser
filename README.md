@@ -1,4 +1,5 @@
 # Text-Analyser
+<h2"technique used to automatically extract valuable insights from unstructured text data. Companies use text analysis tools to quickly digest online data and documents, and transform them into actionable insights."/>
 Its Text Analyser   to count the number of words , sentence,uppercase,lowercase,spaces,digit,vowel,consonet
 using simple HTML,CSS,Json,Js
 
